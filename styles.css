@@ -1,6 +1,16 @@
-/* Your styles go here! */
-h1 {
-  /* Demo style -- remove me and write your own */
+
+main{background-color: rgba(187, 137, 22, 0.771);
+font-family:cursive}
+
+h1 {Background-color: rgba(91, 172, 30, 0.847);
+
   font-size: 48px;
-  color: purple;
+  color: rgb(10, 10, 10);
+  padding: 50px;;
+  text-align: center;
+  font-display: auto;
 }
+h2{;
+font-size: 24px}
+p{font-size: 15px;}
+section{background-color: rgb(157, 226, 9);}
