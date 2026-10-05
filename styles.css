@@ -1,16 +1,24 @@
 
-main{background-color: rgba(187, 137, 22, 0.771);
-font-family:cursive}
+main{background-color: rgba(247, 234, 115, 0.93);
+font-family:cursive;
+max-width: 1200px;
+margin: auto;}
 
-h1 {Background-color: rgba(91, 172, 30, 0.847);
-
-  font-size: 48px;
-  color: rgb(10, 10, 10);
-  padding: 50px;;
+h1 { font-size: 48px;
+  padding:10px;
   text-align: center;
   font-display: auto;
+  color:rgb(96, 69, 23);
+  background-color:rgba(246, 214, 108, 0.93) ;
 }
-h2{;
-font-size: 24px}
-p{font-size: 15px;}
-section{background-color: rgb(157, 226, 9);}
+h2{color: rgb(96, 69, 23);
+font-size:24px }
+
+p{font-size: 15px;
+color: rgb(96, 69, 23)}
+
+section{ 
+background-color: rgb(228, 154, 134);
+width:500px; color: rgb(96, 69, 23);
+ 
+
