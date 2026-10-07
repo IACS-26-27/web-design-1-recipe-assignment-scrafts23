@@ -1,6 +1,5 @@
 
 main{background-color: rgba(247, 234, 115, 0.93);
-font-family:cursive;
 max-width: 1200px;
 margin: auto;}
 
@@ -10,15 +9,23 @@ h1 { font-size: 48px;
   font-display: auto;
   color:rgb(96, 69, 23);
   background-color:rgba(246, 214, 108, 0.93) ;
-}
+border: 10px solid rgba(140, 86, 16, 0.979);
+font-family: cursive;}
 h2{color: rgb(96, 69, 23);
-font-size:24px }
+font-size:24px; 
+font-family: cursive;}
 
 p{font-size: 15px;
-color: rgb(96, 69, 23)}
+color: rgb(96, 69, 23);
+font-family:inherit;}
 
-section{ 
-background-color: rgb(228, 154, 134);
-width:500px; color: rgb(96, 69, 23);
- 
-
+.ingredients
+{background-color: rgb(228, 154, 134);
+width: 500px; color: rgb(96, 69, 23);
+border: 5px solid rgba(140, 86, 16, 0.979);
+font-family: inherit;}
+.step
+{padding: 10px;
+  background-color: rgb(246, 210, 109);
+width: 500px;
+border: 5px solid rgba(140, 86, 16, 0.979)}
