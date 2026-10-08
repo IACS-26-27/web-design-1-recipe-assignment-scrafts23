@@ -1,6 +1,54 @@
-/* Your styles go here! */
-h1 {
-  /* Demo style -- remove me and write your own */
-  font-size: 48px;
-  color: purple;
-}
+
+main{background-color: rgba(247, 234, 115, 0.93);
+max-width: 1200px;
+margin: auto;}
+
+h1 { font-size: 48px;
+  padding:10px;
+  text-align: center;
+  font-display: auto;
+  color:rgb(96, 69, 23);
+  background-color:rgba(246, 214, 108, 0.93) ;
+border: 10px solid rgba(140, 86, 16, 0.979);
+font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;}
+
+h2{color: rgb(96, 69, 23);
+font-size:24px; 
+font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;}
+
+p{font-size: 15px;
+color: rgb(96, 69, 23);
+font-family: "Schoolbell", cursive;
+  font-weight: 400;
+  font-style: normal;}
+
+.ingredients
+{margin: 20px;
+  background-color: rgb(228, 154, 134);
+width: 500px; color: rgb(96, 69, 23);
+border: 5px solid rgba(140, 86, 16, 0.979);
+float:left;
+font-family: "Schoolbell", cursive;
+  font-weight: 400;
+  font-style: normal;}
+.step
+{ 
+  margin: 20px;
+ padding:10px; ;
+  background-color: rgb(246, 210, 109);
+width: 500px;
+border: 5px solid rgb(140, 86, 16);}
+
+figure{
+  border: 5px solid rgb(140, 86, 16);
+text-align: center;
+margin-left: 600px; 
+padding:10px;
+background-color: rgb(228, 154, 134);
+font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;}
