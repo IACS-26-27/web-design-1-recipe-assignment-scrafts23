@@ -10,22 +10,31 @@ h1 { font-size: 48px;
   color:rgb(96, 69, 23);
   background-color:rgba(246, 214, 108, 0.93) ;
 border: 10px solid rgba(140, 86, 16, 0.979);
-font-family: cursive;}
+font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;}
+
 h2{color: rgb(96, 69, 23);
 font-size:24px; 
-font-family: cursive;}
+font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;}
 
 p{font-size: 15px;
 color: rgb(96, 69, 23);
-font-family:inherit;}
+font-family: "Schoolbell", cursive;
+  font-weight: 400;
+  font-style: normal;}
 
 .ingredients
 {margin: 20px;
   background-color: rgb(228, 154, 134);
 width: 500px; color: rgb(96, 69, 23);
 border: 5px solid rgba(140, 86, 16, 0.979);
-font-family: inherit;
-float:left}
+float:left;
+font-family: "Schoolbell", cursive;
+  font-weight: 400;
+  font-style: normal;}
 .step
 { 
   margin: 20px;
@@ -40,4 +49,6 @@ text-align: center;
 margin-left: 600px; 
 padding:10px;
 background-color: rgb(228, 154, 134);
-}
+font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;}
